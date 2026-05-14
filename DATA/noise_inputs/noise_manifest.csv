@@ -1,0 +1,6 @@
+run_id,seed,noise_frac,n_rows_total,n_rows_noised,file
+1,43,0.25,13460,3365,noise_inputs/noise_1.csv
+2,44,0.25,13460,3365,noise_inputs/noise_2.csv
+3,45,0.25,13460,3365,noise_inputs/noise_3.csv
+4,46,0.25,13460,3365,noise_inputs/noise_4.csv
+5,47,0.25,13460,3365,noise_inputs/noise_5.csv
